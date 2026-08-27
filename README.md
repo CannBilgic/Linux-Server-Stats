@@ -1,14 +1,18 @@
-Linux-Server-Stats
-A bash script to analyse basic server performance stats.
+# Linux Server Stats
 
-Getting Started
-Clone the repository
+A Bash script that analyzes basic Linux server performance statistics.
 
-git clone https://github.com/CannBilgic/Linux-Server-Stats
+## Getting Started
+
+### Clone the repository
+
+git clone https://github.com/CannBilgic/Linux-Server-Stats.git
 cd Linux-Server-Stats
-Make the script executable
+
+### Make the script executable
 
 chmod +x server-stats.sh
-Execute the script
+
+### Run the script
 
 ./server-stats.sh
