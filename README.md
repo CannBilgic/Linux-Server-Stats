@@ -18,4 +18,8 @@ chmod +x server-stats.sh
 
 ./server-stats.sh
 
-This project is part of roadmap.sh DevOps projects.
+## Project Challenge
+
+This project was built as part of the roadmap.sh DevOps projects.
+
+[Server Performance Stats Project](https://roadmap.sh/projects/server-stats)
